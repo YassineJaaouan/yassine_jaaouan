@@ -189,7 +189,7 @@ class _LogInScreenState extends State<LogInScreen> {
                             style: const TextStyle(color: Color(0xffABB3BB)),
                           ),
                           Expanded(
-                            child: new Container(
+                            child:  Container(
                                 margin:
                                     const EdgeInsets.only(left: 15.0, right: 10.0),
                                 child: Divider(
